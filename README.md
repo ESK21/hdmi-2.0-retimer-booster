@@ -39,10 +39,11 @@ This board provides active equalization, clock/data recovery (CDR), and output d
 
 ## 📂 Repository Contents
 
-* `/Hardware/Gerbers/`: Production-ready RS-274X Gerber and Excellon drill files configured for JLCPCB fabrication.
-* `/Hardware/Schematics/`: Full schematic sheets in PDF format.
-* `/Hardware/EasyEDA/`: Raw project export files compatible with EasyEDA Pro / Standard.
-* `/Docs/3D_Renders/`: High-resolution 3D renders of the assembled PCB.
+* `/Gerber/`: Production-ready Gerber and drill files (ZIP).
+* `/Schematics/`: Schematic in PDF format.
+* `/EasyEDA/`: Native project source archive (`.epro2`).
+* `/Assembly/`: Pick & place file, Excel BOM, and interactive HTML BOM.
+* `/3D_Renders/`: 3D renders of the assembled PCB.
 
 ---
 
